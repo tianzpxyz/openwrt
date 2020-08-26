@@ -1,5 +1,5 @@
 msgid "qbittorrent"
-msgstr "qbittorrent"
+msgstr "BT下载"
 
 msgid "qBittorrent is a cross-platform free and open-source BitTorrent client."
 msgstr "qBittorrent是一个基于 QT 的跨平台的开源 BitTorrent 客户端。"
